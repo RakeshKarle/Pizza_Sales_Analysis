@@ -18,3 +18,5 @@ In this project  in-depth analysis conducted of an pizza sales data . I used SQL
 # Tools Used - 
 Microsoft sql server management studio  - Mcrosoft Power bi - DAX functions
 
+![Screenshot (2974)](https://github.com/RakeshKarle/Pizza_Sales_Analysis/assets/132128728/5b085910-5718-401d-b537-0a49b74fd9f0)
+![Screenshot (2975)](https://github.com/RakeshKarle/Pizza_Sales_Analysis/assets/132128728/c532e54d-9476-4746-a870-097de9259cd2)
